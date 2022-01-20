@@ -1,0 +1,37 @@
+.button{
+    display: flex;
+    height: 2.5em;
+    width: 3em;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    font-weight:900;
+    font-size: 1.7em;
+    background-color: rgb(231, 231, 231);
+    color: black;
+}
+.operator{
+    display: flex;
+    height: 2.5em;
+    width: 3em;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    font-weight:900;
+    font-size: 1.7em;
+    background-color: rgb(240, 189, 50);
+    color: black;
+}
+
+.first_row{
+    display: flex;
+    height: 2.5em;
+    width: 3em;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 1.7em;
+    background-color: rgb(179, 179, 179);
+    color: rgb(71, 71, 71);
+}
